@@ -5,8 +5,8 @@
 
 ## 下载
 
-打开 [Releases 页面](../../releases)，在最新版本的 **Assets** 里下载
-`PaperJuice-Setup-x.y.z.exe`（约 37 MB）。
+点击仓库文件列表里的 **`PaperJuice-Setup-0.2.0.exe`**（约 37 MB）→
+在文件页点击 **Download raw file** 即可下载。
 
 ## 安装
 
